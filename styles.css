@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.box-1 {
+    background-color: gray;
+    border: 10px black solid;
+    border-radius: 30px;
+}
+
+h1 {
+   color: darkgreen; 
+}
+
+p {
+    color: white;
+    font-size: 100px;
+}
+
+.box-1 button {
+    background-color: black;
+    color: white;
+    padding: 10px 15px;
+    font-weight: 600;
+}
+
+button:hover{
+    background-color: darkgrey;
+}
+
+button:active{
+    background-color: white;
+    color: black;
+}
